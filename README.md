@@ -1,46 +1,39 @@
-# 👋 Olá! Eu sou Hiago!
+<p align="left"># 👋 Olá! Eu sou Hiago!<br><br>🚀 **Desenvolvedor C# | ASP.NET Core | Angular**  <br>📍 **Analista de Sistemas na Caixa Econômica Federal**<br><br>---</p>
 
-🚀 **Desenvolvedor C# | ASP.NET Core | Angular**  
-📍 **Analista de Sistemas na Caixa Econômica Federal**
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiagoArtDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HiagoArtDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="128" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiagoArtDev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-### Estatísticas Gerais
-![HiagoArtDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoArtDev&show_icons=true&theme=radical)
+###
 
-### Linguagens Mais Utilizadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoArtDev&layout=compact&theme=radical)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
-### Contribuições Diárias
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HiagoArtDev&theme=radical)
+###
 
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-## 🌐 Conecte-se comigo
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/seuperfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagoalvesdev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuperfil)
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
----
-
-## 🌱 O que estou aprendendo
-
-- Design Patterns em C#
-- Técnicas de performance com ASP.NET Core
-- Novidades no Angular 18
-- 🧑‍💻 Melhoria de performance no Entity Framework
-
----
-
-Obrigado por visitar meu perfil! 😄 Vamos conectar e compartilhar conhecimento.
+###
