@@ -5,14 +5,10 @@
 
 ---
 
-### Estatísticas Gerais
-![HiagoArtDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoArtDev&show_icons=true&theme=radical)
-
-### Linguagens Mais Utilizadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoArtDev&layout=compact&theme=radical)
-
-### Contribuições Diárias
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HiagoArtDev&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiagoArtDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HiagoArtDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
