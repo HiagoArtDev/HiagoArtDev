@@ -5,8 +5,6 @@
 
 ---
 
-## 📈 Status do GitHub
-
 ### Estatísticas Gerais
 ![HiagoArtDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoArtDev&show_icons=true&theme=radical)
 
