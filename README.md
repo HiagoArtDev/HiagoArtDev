@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou Hiago!
+<h2>
+  👋 Olá! Eu sou Hiago!
+</h2>
 
 🚀 **Desenvolvedor C# | ASP.NET Core | Angular**  
 📍 **Analista de Sistemas na Caixa Econômica Federal**
@@ -30,9 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-<br/>
+---
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/seuperfil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagoalvesdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuperfil)
 
